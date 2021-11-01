@@ -11,10 +11,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src\lopcodes.c">
+    <ClCompile Include="..\..\src\lapi.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\src\lcode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\lctype.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\src\ldebug.c">
@@ -41,6 +44,9 @@
     <ClCompile Include="..\..\src\lobject.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\src\lopcodes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\src\lparser.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -63,9 +69,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\src\lzio.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\lctype.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src\lapi.c" />
     <ClCompile Include="..\..\src\lauxlib.c" />
     <ClCompile Include="..\..\src\lbaselib.c" />
     <ClCompile Include="..\..\src\lbitlib.c" />
